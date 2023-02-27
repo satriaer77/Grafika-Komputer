@@ -1,0 +1,3 @@
+- OpenGL setup for code editor & OpenGL library c++
+- Glut setup
+6f2u2y3
