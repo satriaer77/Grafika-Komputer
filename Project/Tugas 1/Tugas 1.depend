@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1677480360 source:/home/satriaerlangga/Documents/Akademik/SEMESTER 4/Grafika Komputer/Project/Tugas 1/main.cpp
+1677603293 source:/home/satriaerlangga/Documents/Akademik/SEMESTER 4/Grafika Komputer/Project/Tugas 1/main.cpp
 	<GLUT/glut.h>
 	<GL/glut.h>
 	<stdlib.h>
